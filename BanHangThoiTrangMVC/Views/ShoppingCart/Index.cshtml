@@ -1,0 +1,67 @@
+﻿@using BanHangThoiTrangMVC.Common
+@{
+    ViewBag.Title = "Giỏ hàng";
+}
+
+<link rel="stylesheet" type="text/css" href="~/Content/assets/styles/categories_styles.css">
+<link rel="stylesheet" type="text/css" href="~/Content/assets/styles/categories_responsive.css">
+
+<div class="container product_section_container">
+    <div class="row">
+        <div class="col product_section clearfix">
+            <!-- Breadcrumbs -->
+            <div class="breadcrumbs d-flex flex-row align-items-center">
+                <ul>
+                    <li><a href="/home">Home</a></li>
+                    <li class="active"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Giỏ hàng</a></li>
+                </ul>
+            </div>
+
+            <!-- Main Content -->
+            <div class="row">
+                <div class="col-md-12" id="load_data">
+                    @Html.Action("Partial_Item_Cart", "ShoppingCart")
+                </div>
+                <div class="col-md-12">
+                    @if (ViewBag.CheckCart == null)
+                    {
+                        <div class="text-right">
+                            <a href="#" class="btn btn-danger btnDeleteAll">Xóa</a>
+
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <a href="/thanh-toan" class="btn btn-success">Thanh toán</a>
+                            }
+                            else
+                            {
+
+                                <a href="/account/login" class="btn btn-primary" id="loginBtn">Đăng nhập</a>
+                            }
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Content/assets/js/categories_custom.js"></script>
+    <script>
+        // Sử dụng JavaScript để chuyển hướng sau khi đăng nhập
+        document.getElementById('loginBtn').addEventListener('click', function () {
+            // Lưu đường dẫn giỏ hàng vào Session
+            sessionStorage.setItem('cartReturnUrl', window.location.href);
+
+            // Chuyển hướng đến trang đăng nhập
+            window.location.href = '/account/login';
+        });
+
+        // Kiểm tra nếu có returnUrl trong Session và chuyển hướng lại trang giỏ hàng
+        var cartReturnUrl = sessionStorage.getItem('cartReturnUrl');
+        if (cartReturnUrl) {
+            sessionStorage.removeItem('cartReturnUrl');
+            window.location.href = cartReturnUrl;
+        }
+    </script>
+}

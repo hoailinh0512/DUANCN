@@ -1,0 +1,466 @@
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.dll.config
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.pdb
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.exe
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.exe.config
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.rsp
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.exe
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.exe.config
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.rsp
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.AppContext.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Console.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.exe
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.exe.config
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.rsp
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Antlr3.Runtime.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Newtonsoft.Json.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Owin.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Helpers.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Mvc.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Optimization.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Razor.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\WebGrease.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Helpers.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Mvc.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Optimization.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Razor.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Newtonsoft.Json.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Antlr3.Runtime.pdb
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.AssemblyReference.cache
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CoreCompileInputs.cache
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CopyComplete
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.pdb
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreatedDatabase.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.GenerateResource.cache
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateData.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\CKFinder.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\CKFinder.pdb
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatedatabase.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateNews.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory2.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateActive.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.ChangeLengthModels.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.Mvc.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.Mvc.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateProductCategory.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904second.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updateproduct2904.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdatePayment.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreateTBThongKe.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Dapper.dll
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Dapper.xml
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateEmail.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.update25052023.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.deletecreateday.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.updateuser.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatesubcribe.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateOriginalPrice.resources
+C:\Users\vivobook\OneDrive\Desktop\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateStatusOrder.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.dll.config
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.pdb
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.exe
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.exe.config
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.rsp
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.exe
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.exe.config
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.rsp
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Console.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.exe
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.rsp
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\CKFinder.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Dapper.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Owin.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.Mvc.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Helpers.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Mvc.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Optimization.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Razor.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\WebGrease.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\CKFinder.pdb
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Dapper.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.Mvc.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Helpers.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Mvc.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Optimization.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Razor.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreatedDatabase.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateData.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatedatabase.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateNews.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory2.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateActive.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.ChangeLengthModels.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateProductCategory.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904second.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updateproduct2904.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdatePayment.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreateTBThongKe.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateEmail.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.update25052023.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.deletecreateday.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.updateuser.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatesubcribe.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateOriginalPrice.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateStatusOrder.resources
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CopyComplete
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.dll
+C:\Users\ACER\Downloads\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.pdb
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.dll.config
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\BanHangThoiTrangMVC.pdb
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.exe
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.exe.config
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csc.rsp
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.exe
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.exe.config
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\csi.rsp
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.AppContext.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Console.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.Compression.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Net.Http.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Net.Sockets.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.ValueTuple.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XPath.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.exe
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.exe.config
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\vbc.rsp
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\VBCSCompiler.exe
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Antlr3.Runtime.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\CKFinder.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Dapper.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.SqlServer.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Newtonsoft.Json.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Owin.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.Mvc.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Helpers.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Mvc.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Optimization.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Razor.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Deployment.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Razor.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\WebGrease.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\CKFinder.pdb
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Dapper.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\PagedList.Mvc.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Helpers.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Mvc.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Optimization.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.Razor.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Deployment.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\System.Web.WebPages.Razor.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Newtonsoft.Json.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Antlr3.Runtime.pdb
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\EntityFramework.SqlServer.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.AssemblyReference.cache
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreatedDatabase.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateData.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatedatabase.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateNews.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory2.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateActive.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.ChangeLengthModels.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateProductCategory.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904second.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updateproduct2904.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdatePayment.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreateTBThongKe.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateEmail.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.update25052023.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.deletecreateday.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.updateuser.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatesubcribe.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateOriginalPrice.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateStatusOrder.resources
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.GenerateResource.cache
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CoreCompileInputs.cache
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CopyComplete
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.dll
+D:\!!!\đồ án\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.pdb
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreatedDatabase.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateData.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatedatabase.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateNews.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory2.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateActive.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.ChangeLengthModels.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateProductCategory.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904second.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updateproduct2904.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdatePayment.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreateTBThongKe.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateEmail.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.update25052023.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.deletecreateday.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.updateuser.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatesubcribe.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateOriginalPrice.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateStatusOrder.resources
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.dll
+C:\Users\ACER\Downloads\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.pdb
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreatedDatabase.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateData.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatedatabase.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateNews.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateCategory2.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateActive.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.ChangeLengthModels.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateProductCategory.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Update2904second.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updateproduct2904.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdatePayment.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.CreateTBThongKe.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateEmail.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.update25052023.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.deletecreateday.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.updateuser.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.Updatesubcribe.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateOriginalPrice.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.Migrations.UpdateStatusOrder.resources
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.dll
+C:\Users\ACER\Downloads\ĐACN\BanHangWeb\BanHangThoiTrangMVC\BanHangThoiTrangMVC\obj\Debug\BanHangThoiTrangMVC.pdb
